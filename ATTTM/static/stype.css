@@ -1,0 +1,26 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    border-radius: 1rem;
+    padding: 2rem;
+    min-height: 240px; /* tăng chiều cao để cân đối */
+}
+
+.card-title {
+    font-size: 1.6rem;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.btn {
+    width: 100%;
+    font-size: 1.1rem;
+    padding: 0.6rem;
+}
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
